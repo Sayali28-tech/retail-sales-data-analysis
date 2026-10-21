@@ -92,8 +92,8 @@ Install Python and Jupyter Notebook.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <https://github.com/Sayali28-tech/retail-sales-data-analysis>
-cd <retail-sales-data-analysis>
+git clone https://github.com/Sayali28-tech/retail-sales-data-analysis.git
+cd retail-sales-data-analysis
 ```
 
 Replace the placeholders with your actual GitHub repository URL and repository name.
